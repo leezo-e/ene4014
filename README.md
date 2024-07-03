@@ -1,2 +1,2 @@
 # ene4014
-Principle if Programming Languages
+Principle of Programming Languages
